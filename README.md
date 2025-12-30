@@ -109,7 +109,8 @@ I build across **AI/ML, backend systems, and data pipelines**, with a special in
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=600&color=7DF9FF&center=true&vCenter=true&width=800&lines=Studying+intelligent+systems+under+constraint...;Designing+offline-first+machine+learning...;Exploring+privacy-preserving+edge+intelligence...;Turning+real-world+limits+into+research+questions..." /> </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="Matrix Code Rain" />
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="Digital Neural Network" />
+
 
 
 
