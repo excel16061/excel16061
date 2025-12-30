@@ -64,12 +64,46 @@ I build across **AI/ML, backend systems, and data pipelines**, with a special in
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=excel16061&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=excel16061&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### ✨ What this gives you
+
+| Feature | Effect |
+|--------|----------|
+Animated typing | Makes profile feel alive |
+System logs | Hacker / systems vibe |
+Philosophy quote | Signals maturity & depth |
+Status block | Clean tech identity |
+
+This replaces the “vanity” metrics with **personality + technical storytelling**, which is actually more impressive for engineers, founders, and professors.
+
+---
+
+### If you want a slightly different flavor…
+
+#### 🟢 **More hacker / cyberpunk**
+I can:
+- switch font color to neon green,
+- add matrix-style text rain,
+- add glitch text animation.
+
+#### 🔵 **More academic / research**
+I can:
+- change wording to “experiments,” “models,” “evaluation,” etc.
+
+#### 🟣 **More startup / founder**
+I can:
+- rephrase logs to “deploying,” “scaling,” “shipping,” etc.
+
+Tell me what vibe you want:
+- `hacker`
+- `research`
+- `startup`
+- `cyberpunk`
+- `minimal`
+
+…and I’ll tune that section exactly to that aesthetic 😄
+
 
 
