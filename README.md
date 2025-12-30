@@ -109,7 +109,8 @@ I build across **AI/ML, backend systems, and data pipelines**, with a special in
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=600&color=7DF9FF&center=true&vCenter=true&width=800&lines=Studying+intelligent+systems+under+constraint...;Designing+offline-first+machine+learning...;Exploring+privacy-preserving+edge+intelligence...;Turning+real-world+limits+into+research+questions..." /> </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" alt="Cyberpunk Data Stream" />
+  <img src="https://media.giphy.com/media/3o6ZsY8pFv1R5sNq9O/giphy.gif" width="100%" alt="AI Data Flow" />
+
 </p>
 
 <h1 align="center" style="color:#7DF9FF;">
