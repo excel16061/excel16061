@@ -12,7 +12,7 @@ Security-focused machine learning researcher and software engineer with 3+ years
 
 ## Currently
 - M.S. Computer/Information Technology Services Administration and Management, Avila University (Expected December 2026)
-- Graduate Researcher, Avila University: lightweight CNN and on-device ML research
+- Graduate Researcher, Avila University: lightweight CNN and Security control
 
 ## Background
 - Software Developer to Tech Team Lead, Accentel Software Solutions (2022–2024)
